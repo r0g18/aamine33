@@ -30,8 +30,10 @@ I'm a French computer science student who's into cybersecurity.
 ### 📊 **Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aamine33&show_icons=true&theme=radical" alt="Amine's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aamine33&layout=compact&theme=radical" alt="Top Langs">
+  <p align="center">
+  <img src="https://root-me-diff.vercel.app/rm-gh?nickname=amine33&gstats=show" alt="Root-Me Stats" style="border: 2px solid #e1e4e8; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+</p>
+
 </p>
 
 ---
