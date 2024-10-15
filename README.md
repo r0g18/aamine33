@@ -1,6 +1,8 @@
+I'm a French computer science student who's into cybersecurity.
+
 ### 🛠️ Tech Stack
 
-#### 🧰 Tools and Languages
+#### 🧰 Some Tools and Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
