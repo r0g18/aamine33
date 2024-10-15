@@ -1,12 +1,5 @@
 I'm a French computer science student who's into cybersecurity.
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/aamine33?label=Follow&style=social" alt="GitHub Follow">
-  <img src="https://img.shields.io/github/stars/aamine33?style=social" alt="GitHub Stars">
-</p>
-
----
-
 ### 🛠️ **Tech Stack**
 
 #### 🔧 Some Tools and Languages
