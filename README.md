@@ -9,7 +9,7 @@ I'm a French computer science student who's into cybersecurity.
 
 ### 🛠️ **Tech Stack**
 
-#### 🔧 Tools and Languages
+#### 🔧 Some Tools and Languages
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
