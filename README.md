@@ -39,6 +39,4 @@ I'm a French computer science student who's into cybersecurity.
 
 ### 🏆 **Root-Me Stats**
 
-<p align="center">
-  <img src="https://root-me-diff.vercel.app/rm-gh?nickname=amine33&gstats=show" alt="Root-Me Stats">
-</p>
+
