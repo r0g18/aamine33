@@ -29,13 +29,6 @@ I'm a French computer science student who's into cybersecurity.
 
 ---
 
-## 📊 Stats
-<!-- Replace 'aamine33' with your actual GitHub username -->
-![Amine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aamine33&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aamine33&layout=compact&theme=dark)
-
----
-
 ### 🏆 **Root-Me Stats**
 <p align="center">
   <img src="https://root-me-diff.vercel.app/rm-gh?nickname=r0g18&gstats=show" alt="Root-Me Stats">
